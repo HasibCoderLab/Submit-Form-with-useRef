@@ -40,3 +40,13 @@ Start the development server:
 ```bash
 npm run dev
 ```
+---
+# 💡 Technologies Used
+
+⚛️**React**
+
+⚡ **Vite**
+
+🎨 **Tailwind CSS**
+
+🧩 **useRef Hook**
